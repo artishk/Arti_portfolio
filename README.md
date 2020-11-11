@@ -6,3 +6,9 @@
 - This data consists of various financial disvestment of Central public sector enterprises done by Government of India each financial year. 
 - Then did some cleanup to produce the final data in the form of a dataframe. 
 - Finally, I did a quick exploratory data analysis by making histogram plots.
+
+
+### [Project 2 : webapp on webscrapping using streamlit and deploying the app on streamlitsharing.io](https://share.streamlit.io/artishk/streamlit/main/webapp_on_scrapping.py)
+- This app performs the simple web scrapping of NFL FOOTBALL  player Stats data (focusing on Rushing)!
+* **Python libraries:** base64,pandas, streamlit, numpy,matplotlib, seaborn.
+* **Data Source:** [pro-football-reference.com](https://www.pro-football-reference.com/)
