@@ -12,3 +12,8 @@
 - This app performs the simple web scrapping of NFL FOOTBALL  player Stats data (focusing on Rushing)!
 * **Python libraries:** base64,pandas, streamlit, numpy,matplotlib, seaborn.
 * **Data Source:** [pro-football-reference.com](https://www.pro-football-reference.com/)
+
+### [Project 3 : Analysing personal Netflix data](https://github.com/artishk/jubilant-octo-funicular/blob/master/Analysing%20Personal%20Netflix%20Data.ipynb)
+- My goal here was  to figure out how much time I've spent watching Netflix. 
+- Netflix data is downloaded by my making  request after taht data  is emailed by Netflix within 24 hours.
+- Here i did analysis of one show which i watched and how much hors and week days spent on watching that show.Plots are also used to visualise this data.
